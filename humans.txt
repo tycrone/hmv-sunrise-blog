@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+                            
+Web Developer: ...
+Site: ...
+Location: ...
+
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, ES5/ES6, PHP
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
